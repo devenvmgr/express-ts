@@ -112,3 +112,5 @@ dist
 .svelte-kit
 
 
+# ignore commit message
+.gitcommit
